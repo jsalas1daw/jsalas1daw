@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jose</h1>
-<h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Web 📍 Canarias, España 🔹 Apasionado por la ciberseguridad, el desarrollo backend y la programación en Java. 🔹 Siempre aprendiendo y explorando nuevas tecnologías. 🔹 Compartiendo proyectos, código y recursos para la comunidad. 🚀 "El conocimiento es poder, y la tecnología es el futuro."</h3>
+<h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Web 🔹 Apasionado por la programación y el desarrollo web. 🔹 Siempre aprendiendo y explorando nuevas tecnologías. 🔹 Compartiendo proyectos, código y recursos para la comunidad. 🚀 "El conocimiento es poder, y la tecnología es el futuro."</h3>
 
 <br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsalas1daw&show_icons=true&theme=dark&locale=es&layout=compact" alt="jsalas1daw" /></p>
 
